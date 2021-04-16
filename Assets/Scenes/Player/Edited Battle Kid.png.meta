@@ -1,0 +1,1008 @@
+fileFormatVersion: 2
+guid: 461c108afd91ba246be470496919bcd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4148428410057787730
+    second: BKIdle
+  - first:
+      213: -2102479359959440560
+    second: BKJump1
+  - first:
+      213: -1996602895852867555
+    second: BKJump2
+  - first:
+      213: 327138979079654121
+    second: BKRun1
+  - first:
+      213: 5523232072804854751
+    second: BKRun2
+  - first:
+      213: 4193622339272685960
+    second: BKRun3
+  - first:
+      213: 2619960317097899851
+    second: BKDeath1
+  - first:
+      213: -4027733622091633956
+    second: BKIdleShoot
+  - first:
+      213: -3176269562293365666
+    second: BKDeath2
+  - first:
+      213: 795176038749617074
+    second: BKJumpShoot1
+  - first:
+      213: 3240317930369362500
+    second: BKJumpShoot2
+  - first:
+      213: 2399353240957308195
+    second: BKDeath3
+  - first:
+      213: -6421256479477984200
+    second: BKRunShoot1
+  - first:
+      213: 4264344636224718699
+    second: BKDeath4
+  - first:
+      213: -5491882091260372400
+    second: BKDeath5
+  - first:
+      213: 4260662750280856831
+    second: BKRunShoot2
+  - first:
+      213: -7853614725581535684
+    second: BKDeath6
+  - first:
+      213: -433298381820575474
+    second: BKRunShoot3
+  - first:
+      213: 424061052980572483
+    second: BKDeath7
+  - first:
+      213: 2759393970297457780
+    second: BKBall
+  - first:
+      213: -258108928226450831
+    second: Edited Battle Kid_20
+  - first:
+      213: 9032577882869720729
+    second: Edited Battle Kid_21
+  - first:
+      213: -363240837850018886
+    second: Edited Battle Kid_22
+  - first:
+      213: -7010174636333441918
+    second: Edited Battle Kid_23
+  - first:
+      213: -5545125751063478864
+    second: Edited Battle Kid_24
+  - first:
+      213: 6975726422649628093
+    second: Edited Battle Kid_25
+  - first:
+      213: -6929949223478004013
+    second: Edited Battle Kid_26
+  - first:
+      213: 499839975406663721
+    second: Edited Battle Kid_27
+  - first:
+      213: -3692300759908742990
+    second: Edited Battle Kid_28
+  - first:
+      213: 6806064386649754227
+    second: Edited Battle Kid_29
+  - first:
+      213: -7088623069312677095
+    second: Edited Battle Kid_30
+  - first:
+      213: 710302526957030992
+    second: Edited Battle Kid_31
+  - first:
+      213: 6975139627199843067
+    second: Edited Battle Kid_32
+  - first:
+      213: 7894647918421474344
+    second: Edited Battle Kid_33
+  - first:
+      213: 9091974697599441808
+    second: Edited Battle Kid_34
+  - first:
+      213: 1471780845053039928
+    second: Edited Battle Kid_35
+  - first:
+      213: -2093620730874556375
+    second: Edited Battle Kid_36
+  - first:
+      213: 8883007366286313180
+    second: Edited Battle Kid_37
+  - first:
+      213: -4281431293140394966
+    second: Edited Battle Kid_38
+  - first:
+      213: -8810549938416091757
+    second: Edited Battle Kid_39
+  - first:
+      213: 2041993595761879265
+    second: Edited Battle Kid_40
+  - first:
+      213: -2025602873315699966
+    second: Edited Battle Kid_41
+  - first:
+      213: 4832463387228572156
+    second: Edited Battle Kid_42
+  - first:
+      213: -8039975303787980421
+    second: Edited Battle Kid_43
+  - first:
+      213: -4993482028953293793
+    second: Edited Battle Kid_44
+  - first:
+      213: -6590454676681346652
+    second: Edited Battle Kid_45
+  - first:
+      213: -3348281736152086521
+    second: Edited Battle Kid_46
+  - first:
+      213: -3643142863146850971
+    second: Edited Battle Kid_47
+  - first:
+      213: 6542925904699575853
+    second: Edited Battle Kid_48
+  - first:
+      213: -4928176788971275920
+    second: Edited Battle Kid_49
+  - first:
+      213: -3259228279518889810
+    second: Edited Battle Kid_50
+  - first:
+      213: 9120502359378533310
+    second: Edited Battle Kid_51
+  - first:
+      213: -319549691775234726
+    second: Edited Battle Kid_52
+  - first:
+      213: -4958357048762928942
+    second: Edited Battle Kid_53
+  - first:
+      213: -3238508559106507084
+    second: Edited Battle Kid_54
+  - first:
+      213: -1524498520793206805
+    second: Edited Battle Kid_55
+  - first:
+      213: -7015534328491579670
+    second: Edited Battle Kid_56
+  - first:
+      213: -598077512001412384
+    second: Edited Battle Kid_57
+  - first:
+      213: -1046959092852858623
+    second: Edited Battle Kid_58
+  - first:
+      213: -1533369301423377489
+    second: Edited Battle Kid_59
+  - first:
+      213: -3966336955457411643
+    second: Edited Battle Kid_60
+  - first:
+      213: -8539555506297412007
+    second: Edited Battle Kid_61
+  - first:
+      213: 8866574423467858853
+    second: Edited Battle Kid_62
+  - first:
+      213: 7953711375283750452
+    second: Edited Battle Kid_63
+  - first:
+      213: 2108547318997953755
+    second: Edited Battle Kid_64
+  - first:
+      213: 4334422236343672282
+    second: Edited Battle Kid_65
+  - first:
+      213: -8083729524039896131
+    second: Edited Battle Kid_66
+  - first:
+      213: -1555047884003607929
+    second: Edited Battle Kid_67
+  - first:
+      213: -951726452350783062
+    second: Edited Battle Kid_68
+  - first:
+      213: 517756556033183533
+    second: Edited Battle Kid_69
+  - first:
+      213: 7748851478017115980
+    second: Edited Battle Kid_70
+  - first:
+      213: 99251610938496489
+    second: Edited Battle Kid_71
+  - first:
+      213: -2504678686317822501
+    second: Edited Battle Kid_72
+  - first:
+      213: -2676487237166726924
+    second: Edited Battle Kid_73
+  - first:
+      213: 802739344584688309
+    second: Edited Battle Kid_74
+  - first:
+      213: -5078074139637796830
+    second: Edited Battle Kid_75
+  - first:
+      213: 7903969518462030287
+    second: Edited Battle Kid_76
+  - first:
+      213: -2299325107294395587
+    second: Edited Battle Kid_77
+  - first:
+      213: 5843558372450520087
+    second: Edited Battle Kid_78
+  - first:
+      213: 4079583572175045993
+    second: Edited Battle Kid_79
+  - first:
+      213: -7944158318149841812
+    second: Edited Battle Kid_80
+  - first:
+      213: -4873194258676756895
+    second: Edited Battle Kid_81
+  - first:
+      213: 597900806895414303
+    second: Edited Battle Kid_82
+  - first:
+      213: 233865039421740699
+    second: Edited Battle Kid_83
+  - first:
+      213: 8676050112363459438
+    second: Edited Battle Kid_84
+  - first:
+      213: -8642627358682568238
+    second: Edited Battle Kid_85
+  - first:
+      213: -486420948154443538
+    second: Edited Battle Kid_86
+  - first:
+      213: 2175017085524678607
+    second: Edited Battle Kid_87
+  - first:
+      213: -9170244518156719766
+    second: Edited Battle Kid_88
+  - first:
+      213: -2200634412652487808
+    second: Edited Battle Kid_89
+  - first:
+      213: -8477307819684665648
+    second: Edited Battle Kid_90
+  - first:
+      213: -8819315435198429496
+    second: Edited Battle Kid_91
+  - first:
+      213: 2741663970972346077
+    second: Edited Battle Kid_92
+  - first:
+      213: 117518177074340636
+    second: Edited Battle Kid_93
+  - first:
+      213: -7820095104292243860
+    second: Edited Battle Kid_94
+  - first:
+      213: -3307535904251101309
+    second: Edited Battle Kid_95
+  - first:
+      213: -6419214509471087207
+    second: Edited Battle Kid_96
+  - first:
+      213: -229028185866710154
+    second: Edited Battle Kid_97
+  - first:
+      213: 2012566941423412299
+    second: Edited Battle Kid_98
+  - first:
+      213: -688838056422469843
+    second: Edited Battle Kid_99
+  - first:
+      213: -3364267769154246473
+    second: Edited Battle Kid_100
+  - first:
+      213: 3083615512228634334
+    second: Edited Battle Kid_101
+  - first:
+      213: 2057503555512911726
+    second: Edited Battle Kid_102
+  - first:
+      213: -3545152484645219956
+    second: Edited Battle Kid_103
+  - first:
+      213: -2969378017930986248
+    second: Edited Battle Kid_104
+  - first:
+      213: 7698580275993671287
+    second: Edited Battle Kid_105
+  - first:
+      213: 4894756549080495843
+    second: Edited Battle Kid_106
+  - first:
+      213: -6149303684650399503
+    second: Edited Battle Kid_107
+  - first:
+      213: -5021716902419217882
+    second: Edited Battle Kid_108
+  - first:
+      213: -3269049166834228898
+    second: Edited Battle Kid_109
+  - first:
+      213: 2539311262947098999
+    second: Edited Battle Kid_110
+  - first:
+      213: 9028003675017443540
+    second: Edited Battle Kid_111
+  - first:
+      213: -4993433234769554238
+    second: Edited Battle Kid_112
+  - first:
+      213: 6138904425728394872
+    second: Edited Battle Kid_113
+  - first:
+      213: -3801647098375467520
+    second: Edited Battle Kid_114
+  - first:
+      213: -5012194730833620643
+    second: Edited Battle Kid_115
+  - first:
+      213: -4143146814466913277
+    second: Edited Battle Kid_116
+  - first:
+      213: 2742383115641813827
+    second: Edited Battle Kid_117
+  - first:
+      213: 8638016429652891620
+    second: Edited Battle Kid_118
+  - first:
+      213: -4257284774458299823
+    second: Edited Battle Kid_119
+  - first:
+      213: 6807833228657988737
+    second: Edited Battle Kid_120
+  - first:
+      213: -859717575192557234
+    second: Edited Battle Kid_121
+  - first:
+      213: 7646595217439299143
+    second: Edited Battle Kid_122
+  - first:
+      213: 6925131720519505489
+    second: Edited Battle Kid_123
+  - first:
+      213: -8269707887114135858
+    second: Edited Battle Kid_124
+  - first:
+      213: -5755394580943838960
+    second: Edited Battle Kid_125
+  - first:
+      213: -2810612576914230045
+    second: Edited Battle Kid_126
+  - first:
+      213: 92902151657519674
+    second: Edited Battle Kid_127
+  - first:
+      213: 5958386299397541609
+    second: Edited Battle Kid_128
+  - first:
+      213: 8040763009830833346
+    second: Edited Battle Kid_129
+  - first:
+      213: 2518177622421966131
+    second: Edited Battle Kid_130
+  - first:
+      213: 1420824868218651987
+    second: Edited Battle Kid_131
+  - first:
+      213: 2152615843367204344
+    second: Edited Battle Kid_132
+  - first:
+      213: -5931412433397521643
+    second: Edited Battle Kid_133
+  - first:
+      213: -4643897896369418462
+    second: Edited Battle Kid_134
+  - first:
+      213: 2722866514882113564
+    second: Edited Battle Kid_135
+  - first:
+      213: 3568450618255521795
+    second: Edited Battle Kid_136
+  - first:
+      213: 3665531533595314245
+    second: Edited Battle Kid_137
+  - first:
+      213: 8704053753903586727
+    second: Edited Battle Kid_138
+  - first:
+      213: -7499445292365380223
+    second: Edited Battle Kid_139
+  - first:
+      213: 6867206453444932448
+    second: Edited Battle Kid_140
+  - first:
+      213: 8762845016133860182
+    second: Edited Battle Kid_141
+  - first:
+      213: -1586959265726716778
+    second: Edited Battle Kid_142
+  - first:
+      213: -6920681842981179297
+    second: Edited Battle Kid_143
+  - first:
+      213: -8171057382225079205
+    second: Edited Battle Kid_144
+  - first:
+      213: -1555653557948652901
+    second: Edited Battle Kid_145
+  - first:
+      213: 3519356152181017496
+    second: Edited Battle Kid_146
+  - first:
+      213: 693169804675990277
+    second: Edited Battle Kid_147
+  - first:
+      213: 2972249330500835603
+    second: Edited Battle Kid_148
+  - first:
+      213: 1067831096533593713
+    second: Edited Battle Kid_149
+  - first:
+      213: -884512715384492826
+    second: Edited Battle Kid_150
+  - first:
+      213: 4157012053257891858
+    second: Edited Battle Kid_151
+  - first:
+      213: 1461371218672631246
+    second: Edited Battle Kid_152
+  - first:
+      213: 5283819699060412657
+    second: Edited Battle Kid_153
+  - first:
+      213: 7322127717259137130
+    second: BKBall
+  - first:
+      213: 3391976778450450870
+    second: Edited Battle Kid_155
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BKIdle
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6fd522752dd66c0800000000000000
+      internalID: -4148428410057787730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKJump1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e60a592e72d2e0800000000000000
+      internalID: -2102479359959440560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKJump2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 176
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d107c23ae34aa44e0800000000000000
+      internalID: -1996602895852867555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKRun1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea0a301b2b3a8400800000000000000
+      internalID: 327138979079654121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKRun2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbe39f8e4676ac40800000000000000
+      internalID: 5523232072804854751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKRun3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 176
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889bd7e7c4db23a30800000000000000
+      internalID: 4193622339272685960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKDeath1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 141
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477d3af608fb5420800000000000000
+      internalID: 2619960317097899851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKIdleShoot
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 158
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaa45d4c9d9a18c0800000000000000
+      internalID: -4027733622091633956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKDeath2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 141
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e545e9469af9be3d0800000000000000
+      internalID: -3176269562293365666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKJumpShoot1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 158
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbb29be468090b00800000000000000
+      internalID: 795176038749617074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKJumpShoot2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 158
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aaefe5dfbe7fc20800000000000000
+      internalID: 3240317930369362500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKDeath3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 143
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d41f17f073c4120800000000000000
+      internalID: 2399353240957308195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKRunShoot1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 158
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8341a01d04d13e6a0800000000000000
+      internalID: -6421256479477984200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKDeath4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 144
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67440a6adefd2b30800000000000000
+      internalID: 4264344636224718699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKDeath5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 141
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a9812d55ae8c3b0800000000000000
+      internalID: -5491882091260372400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKRunShoot2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 158
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ba3a823ae02b30800000000000000
+      internalID: 4260662750280856831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKDeath6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 141
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c368fee640b520390800000000000000
+      internalID: -7853614725581535684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKRunShoot3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 158
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0145ddda6d9cf9f0800000000000000
+      internalID: -433298381820575474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKDeath7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 141
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413cf9e74192e500800000000000000
+      internalID: 424061052980572483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BKBall
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c4fe232365b4620800000000000000
+      internalID: 2759393970297457780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
