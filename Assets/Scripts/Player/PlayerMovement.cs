@@ -15,6 +15,7 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask isGroundedLayer;
     public Transform groundCheck;
     public float groundCheckRadius;
+    private object hitInfo;
 
     // Start is called before the first frame update
     void Start()
@@ -64,14 +65,6 @@ public class PlayerMovement : MonoBehaviour
             anim.SetBool("Shoot", false);
         }
 
-     //     if (Input.GetButton("Jump") && Input.GetButton("Fire1"))
-     //     {
-     //     anim.SetBool("Shoot", true);
-     //     }
-     //    else
-     //    { 
-     //     anim.SetBool("Shoot", false); 
-     //    } 
 
         Vector2 moveDirection = new Vector2(horizontalInput * speed, rb.velocity.y);
         rb.velocity = moveDirection;
@@ -81,5 +74,16 @@ public class PlayerMovement : MonoBehaviour
 
         if (BattleKid.flipX && horizontalInput > 0 || !BattleKid.flipX && horizontalInput < 0)
             BattleKid.flipX = !BattleKid.flipX;
+
+        
     }
+
+   // private void OnTriggerEnter2D(Collider2D collision)
+   // {
+    //    if (collision.gameObject.tag =="PowerUp")
+   //     {
+   //       Destroy(gameObject);
+  //      }
+  //  }
+
 }
